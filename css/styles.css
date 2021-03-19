@@ -7,6 +7,9 @@ h1{
 .float{
   width: 300px;
   float: right;
+  padding: 5px;
+  border: black;
+  margin: 5px;
 }
 span{
   color: lightgreen;
