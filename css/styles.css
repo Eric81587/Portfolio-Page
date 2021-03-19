@@ -16,3 +16,8 @@ span{
   background: black;
   line-height: 25px;
 }
+.box{
+  margin: 10px;
+  border: 5px solid black;
+  padding: 10px;
+}
