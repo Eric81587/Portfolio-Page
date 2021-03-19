@@ -5,10 +5,10 @@ h1{
   text-align: center;
 }
 .float{
-  width: 300px;
+  width: 500px;
   float: right;
   padding: 5px;
-  border: black;
+  border: 5px solid black;
   margin: 5px;
 }
 span{
@@ -20,4 +20,17 @@ span{
   margin: 10px;
   border: 5px solid black;
   padding: 10px;
+}
+.picofme{
+  display: flex;
+  justify-content: center;
+  width: center;
+  height: 300px;
+}
+.float2{
+  width: 500px;
+  float: left;
+  padding: 5px;
+  border: 5px solid black;
+  margin: 5px;
 }
